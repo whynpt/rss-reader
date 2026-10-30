@@ -1,0 +1,20 @@
+node_modules/
+dist/
+data/
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+bilibili_auth.json
+*.log
+.DS_Store
+
+# Local design execution settings and screenshots of personal subscriptions.
+designs/rss-redesign/compatibility-config.toml
+designs/rss-redesign/implementation-*.png
+designs/rss-redesign/implementation-*.jpg
